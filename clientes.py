@@ -3,7 +3,7 @@ import csv
 import os
 
 
-CLIENT_TABLE = '.prueba.csv'
+CLIENT_TABLE = '.clientes.csv'
 CLIENT_SCHEMA = ['name', 'company', 'email', 'position']
 
 clients = []
